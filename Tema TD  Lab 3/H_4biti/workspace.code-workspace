@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Tema TD\\Lab3\\Hamming_4biti"
+		},
+		{
+			"path": "..\\..\\Tema TD\\Lab3\\Hamming_8biti"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hamming_4biti"
+	}
+}
